@@ -60,5 +60,6 @@ I'm a full stack developer...Currently learning web 3.O from Almabetter
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Javedansari1993)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javed-ansari-07a327154/)
 
-<img width="250" alt="profile pic (2)" src="https://user-images.githubusercontent.com/110160515/213906687-85ec00e3-38f2-4304-be6c-90f3d9afeea0.png">
+<img width="928" alt="blog" src="https://user-images.githubusercontent.com/110160515/213906705-a65e5263-5fda-4d3a-9061-0215cb59bf7c.png">
+
 
